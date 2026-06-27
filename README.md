@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/ein-neuer-morgen/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Ein neuer Morgen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-neuer-morgen/) |
+| **Get License** | [Music Rights & Licensing for Ein neuer Morgen](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/ein-neuer-morgen/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in den Wagen, die City ist laut, doch ich seh' nur dich,
+> Der Bass pumpt heavy, Babe, ich brauche dein Licht.
+> Glaub mir, kein andrer Mann gibt dir diesen Vibe heute Nacht,
+> Ein neuer Morgen beginnt, wir haben das Feuer entfacht.
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
