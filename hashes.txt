@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Ein neuer Morgen
+
+This log tracks the cryptographic history and versioning for the song **Ein neuer Morgen** (ein-neuer-morgen).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-27T23:52:58.318194 | `v1` | `8bd54e60def1a60dd40cbf493b4c0640261a3117b12735fbe30a53291ed678f1` | `18ec90f0a12e2038e996ab512516e93649a9496a484aed2d264bf1032e1cc9c0` | `2026-06-27_ein-neuer-morgen-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
